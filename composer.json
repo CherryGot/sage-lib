@@ -1,25 +1,20 @@
 {
-  "name": "roots/sage-lib",
+  "name": "lunar-build/sage-lib",
   "license": "MIT",
-  "description": "Library files for Sage Starter Theme",
+  "description": "Library files for Sage Starter Theme, forked by Lunar Build to support PHP8.1",
   "homepage": "https://roots.io/sage/",
   "authors": [
     {
       "name": "QWp6t",
-      "email": "hi@qwp6t.me",
+      "email": "tech@lunar.build",
       "homepage": "https://github.com/qwp6t"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage-lib/issues",
+    "issues": "https://github.com/lunar-build/sage-lib/issues",
     "forum": "https://discourse.roots.io/"
   },
   "autoload": {
@@ -28,7 +23,7 @@
     }
   },
   "require": {
-    "php": ">=8",
+    "php": ">=8.1",
     "composer/installers": "~2.0",
     "illuminate/view": "~8.0",
     "illuminate/config": "~8.0"
