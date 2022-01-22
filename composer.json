@@ -1,9 +1,14 @@
 {
-  "name": "lunar-build/sage-lib",
+  "name": "cherrygot/sage-lib",
   "license": "MIT",
-  "description": "Library files for Sage Starter Theme, forked by Lunar Build to support PHP8.1",
+  "description": "Library files for Sage Starter Theme, forked from Lunar Build to support PHP >= 7.4",
   "homepage": "https://roots.io/sage/",
   "authors": [
+    {
+      "name": "Chakrapani Gautam",
+      "email": "contact@cherrygot.me",
+      "homepage": "https://cherrygot.me"
+    },
     {
       "name": "Kye Buffery",
       "email": "tech@lunar.build",
